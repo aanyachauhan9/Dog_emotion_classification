@@ -20,7 +20,7 @@ This project aims to recognize and classify dog emotions using transfer learning
 Dog emotions are vital for understanding their behavior and well-being. This project explores the application of transfer learning to recognize emotions in dogs from images.
 
 ## Dataset
-The dataset used in this project consists of labeled images of dogs exhibiting different emotions.https://www.kaggle.com/datasets/danielshanbalico/dog-emotion
+The dataset used in this project consists of labeled images of dogs exhibiting different emotions.[dataset](https://www.kaggle.com/datasets/danielshanbalico/dog-emotion)
 
 ## Model Architecture
 We utilized the VGG16 model, pre-trained on ImageNet, as the base model. A custom classification head was added on top to adapt it to our specific task.
@@ -81,7 +81,8 @@ This project aims to recognize and classify dog emotions using transfer learning
 Dog emotions are vital for understanding their behavior and well-being. This project explores the application of transfer learning to recognize emotions in dogs from images.
 
 ## Dataset
-The dataset used in this project consists of labeled images of dogs exhibiting different emotions. [Provide link if dataset is publicly available]
+The dataset used in this project consists of labeled images of dogs exhibiting different emotions. [dataset](https://www.kaggle.com/datasets/danielshanbalico/dog-emotion)
+
 
 ## Model Architecture
 We utilized the VGG16 model, pre-trained on ImageNet, as the base model. A custom classification head was added on top to adapt it to our specific task.
@@ -96,9 +97,6 @@ The model was trained using:
 - **Metrics**: Accuracy
 
 We split the dataset into training, validation, and test sets and monitored performance using accuracy and loss metrics.
-
-## Results
-The model achieved an accuracy of XX% on the test set, demonstrating the effectiveness of transfer learning in this domain.
 
 ## Conclusion
 The project successfully demonstrates that transfer learning can be applied to classify dog emotions. With further improvements, this approach can be extended to more complex emotion recognition tasks.
