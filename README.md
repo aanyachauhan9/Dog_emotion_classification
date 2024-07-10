@@ -20,7 +20,7 @@ This project aims to recognize and classify dog emotions using transfer learning
 Dog emotions are vital for understanding their behavior and well-being. This project explores the application of transfer learning to recognize emotions in dogs from images.
 
 ## Dataset
-The [dataset]((https://www.kaggle.com/datasets/danielshanbalico/dog-emotion)
+The [dataset](https://www.kaggle.com/datasets/danielshanbalico/dog-emotion)
 used in this project consists of labeled images of dogs exhibiting different emotions. 
 
 ## Model Architecture
