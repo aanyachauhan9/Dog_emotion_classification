@@ -130,6 +130,7 @@ To run this project locally, follow these steps:
    ```sh
    python train.py
 
+
    To evaluate the model, run:
 
    ```sh
