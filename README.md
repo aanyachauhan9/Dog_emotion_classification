@@ -115,18 +115,24 @@ To run this project locally, follow these steps:
    ```sh
    git clone https://github.com/yourusername/dog-emotion-recognition.git
    cd dog-emotion-recognition
-Install required dependencies:
 
-pip install -r requirements.txt
+2. Install required dependencies:
+
+   ```sh
+   pip install -r requirements.txt
 Download the dataset and place it in the data directory.
 
-Usage
+3. Usage
+
 To train the model, run:
 
-python train.py
+   ```sh
+   python train.py
+
 To evaluate the model, run:
 
-python evaluate.py
+   ```sh
+   python evaluate.py
 
 ## Acknowledgements
 
