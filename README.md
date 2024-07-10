@@ -120,16 +120,17 @@ To run this project locally, follow these steps:
 
    ```sh
    pip install -r requirements.txt
-Download the dataset and place it in the data directory.
+   
+   Download the dataset and place it in the data directory.
 
 3. Usage
 
-To train the model, run:
+   To train the model, run:
 
    ```sh
    python train.py
 
-To evaluate the model, run:
+   To evaluate the model, run:
 
    ```sh
    python evaluate.py
